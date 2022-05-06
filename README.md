@@ -1,6 +1,6 @@
 ## 2048 Game
 
-To play this game [Click Here](https://letsplay2048.netlify.app/)
+To play this game [Click Here](https://2048-divyansh.vercel.app/)
 
 #### Assests Directory
 
